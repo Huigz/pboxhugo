@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronom on PBoxKorea</title>
+    <link>http://localhost:1313/categories/astronom/</link>
+    <description>Recent content in Astronom on PBoxKorea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jul 2023 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/astronom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PBOX New Site 준비 중...</title>
+      <link>http://localhost:1313/posts/upcoming/exoplanets-hunting/</link>
+      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/upcoming/exoplanets-hunting/</guid>
+      <description>Pehtheme Hugo is your gateway to the mysteries and wonders of the universe. We are a passionate community of space enthusiasts, scientists, and stargazers dedicated to sharing the awe-inspiring beauty and profound knowledge of the cosmos.&#xA;At Pehtheme Hugo, we believe that space exploration is not just a scientific endeavor; it&amp;rsquo;s a human adventure. It&amp;rsquo;s about the curiosity that drives us to look up at the night sky and wonder about the galaxies, stars, and planets that fill our universe.</description>
+    </item>
+  </channel>
+</rss>

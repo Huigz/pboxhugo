@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notice on PBoxKorea</title>
+    <link>http://localhost:1313/categories/notice/</link>
+    <description>Recent content in Notice on PBoxKorea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jul 2023 13:03:07 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/notice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PBOX New Site 준비 중...</title>
+      <link>http://localhost:1313/posts/upcoming/exoplanets-hunting/</link>
+      <pubDate>Thu, 27 Jul 2023 13:03:07 +0700</pubDate>
+      <guid>http://localhost:1313/posts/upcoming/exoplanets-hunting/</guid>
+      <description>ABOUT PBOX PBOX IN 번개장터 </description>
+    </item>
+  </channel>
+</rss>

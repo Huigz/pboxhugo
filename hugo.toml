@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'PBOX Korea'
 
 [[menus.main]]
 name = 'Home'
@@ -8,12 +8,12 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
+name = 'Publish'
 pageRef = '/posts'
 weight = 20
 
 [[menus.main]]
-name = 'Tags'
+name = 'Category'
 pageRef = '/tags'
 weight = 30
 

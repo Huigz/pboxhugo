@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feature on PBOX Korea</title>
-    <link>http://localhost:1313/tags/feature/</link>
+    <link>https://example.org/tags/feature/</link>
     <description>Recent content in Feature on PBOX Korea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Mar 2024 13:03:07 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/feature/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/feature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PBOX New Site 준비 중...</title>
-      <link>http://localhost:1313/posts/upcoming/exoplanets-hunting/</link>
+      <link>https://example.org/posts/upcoming/exoplanets-hunting/</link>
       <pubDate>Sun, 24 Mar 2024 13:03:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/upcoming/exoplanets-hunting/</guid>
+      <guid>https://example.org/posts/upcoming/exoplanets-hunting/</guid>
       <description>PBOX 사이트 갱신 공지 더 좋은 서비스 제공하기 위해 3월 ~ 4월 5일까지 PBOX 사이트 갱신하겠습니다!&#xA;번개장터에서 카드 정상적으로 구매하실 수 있습니다.&#xA;PBOX New Site 기능 카드 상세 정보 + 카드 하자등 세부 사진 참고 가능 카드 등록 사전 예고, 예약 가능 </description>
     </item>
   </channel>

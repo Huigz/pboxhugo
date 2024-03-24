@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PBOX Korea</title>
-    <link>https://example.org/categories/</link>
+    <link>https://pboxkorea.com/categories/</link>
     <description>Recent content in Categories on PBOX Korea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Mar 2024 13:03:07 +0700</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pboxkorea.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommend</title>
-      <link>https://example.org/categories/recommend/</link>
+      <link>https://pboxkorea.com/categories/recommend/</link>
       <pubDate>Sun, 24 Mar 2024 13:03:07 +0700</pubDate>
-      <guid>https://example.org/categories/recommend/</guid>
+      <guid>https://pboxkorea.com/categories/recommend/</guid>
       <description></description>
     </item>
   </channel>
